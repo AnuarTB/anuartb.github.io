@@ -32,7 +32,7 @@ anuartb+hackathon@gmail.com
 - GitHub: How to Collaborate with GitHub
 - Algorithms: Hack the Technical Interview: Algorithms Practice
 
-<a style="font-size: 1.5em" href="https://my.mlh.io/oauth/authorize?client_id=0fc2ffee13b95bccefb78b509cb6535b52f1a377d68be4f6c0c6768b5df2295f&redirect_uri=http://organize.mlh.io/participants/events/2101-hack-kaist/register&response_type=token
-">Register</a>
+
+<div class="button_cont" align="center"><a class="example_c" href="https://my.mlh.io/oauth/authorize?client_id=0fc2ffee13b95bccefb78b509cb6535b52f1a377d68be4f6c0c6768b5df2295f&redirect_uri=http://organize.mlh.io/participants/events/2101-hack-kaist/register&response_type=token" target="_blank" rel="nofollow noopener">Register</a></div>
 
 <img class="col three" src="/img/local_hack_day.png">
