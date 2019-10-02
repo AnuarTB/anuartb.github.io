@@ -37,14 +37,14 @@ $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
 
 /* Set theme color *************************/
-$theme-color:   $blue;
+$theme-color:   $red;
 
 
 /************************************************************/
 
 /**
- * Basic styling
- */
+* Basic styling
+*/
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -58,8 +58,8 @@ body {
 
 
 /**
- * Set `margin-bottom` to maintain vertical rhythm
- */
+* Set `margin-bottom` to maintain vertical rhythm
+*/
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -82,8 +82,8 @@ hr{
 
 
 /**
- * Figures
- */
+* Figures
+*/
 figure > img {
     display: block;
 }
@@ -95,8 +95,8 @@ figcaption {
 
 
 /**
- * Lists
- */
+* Lists
+*/
 ul, ol {
     margin-left: $horizontal-spacing-unit;
 }
@@ -104,23 +104,23 @@ ul, ol {
 li {
     > ul,
     > ol {
-         margin-bottom: 0;
+        margin-bottom: 0;
     }
 }
 
 
 
 /**
- * Headings
- */
+* Headings
+*/
 h1, h2, h3, h4, h5, h6 {
     font-weight: 100;
 }
 
 
 /**
- * Links
- */
+* Links
+*/
 a {
     color: $text-color;
     text-decoration: none;
@@ -147,8 +147,8 @@ article a {
 
 
 /**
- * Blockquotes
- */
+* Blockquotes
+*/
 blockquote {
     color: $text-color;
     border-left: 10px solid $grey-color-light;
@@ -164,8 +164,8 @@ blockquote {
 
 
 /**
- * Code formatting
- */
+* Code formatting
+*/
 pre,
 code {
     font-size: 15px;
@@ -191,8 +191,8 @@ pre {
 
 
 /**
- * Wrapper
- */
+* Wrapper
+*/
 
 .wrapper {
     max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
@@ -213,8 +213,8 @@ pre {
 
 
 /**
- * Clearfix
- */
+* Clearfix
+*/
 %clearfix {
     &:before,
     &:after {
@@ -223,3 +223,5 @@ pre {
         clear: both;
     }
 }
+
+
