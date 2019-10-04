@@ -32,6 +32,24 @@ anuartb+hackathon@gmail.com
 - GitHub: How to Collaborate with GitHub
 - Algorithms: Hack the Technical Interview: Algorithms Practice
 
+**Schedule**
+
+Oct 5
+-   9:30 - 10:00 On-spot registration of participants and setting up
+-   10:00 Welcoming speech and the start of the hackathon!
+-   10:30 - 12:00 "Python: Basic Training: Intro to Python Skills for AI: Part 1 (Beginner)" and "GitHub: How to Collaborate with GitHub" workshops. Participants have to go to one of these two.
+-   13:30 - 15:00 "Python: Basic Training: Intro to Python Skills for AI: Part 2" workshop.
+-   16:00 - 17:30 "Python: Basic Training: Intro to Python Skills for AI: Part 3" workshop.
+-   19:30 - 21:00 "Algorithms: Hack the Technical Interview: Algorithms Practice"
+
+Oct 6
+-   8:00 Call for projects
+-   8:30 - 9:30 Demos
+-   9:30 - 10:00 Closing ceremony
+
+**Topic**
+
+Software solution to a problem that you face in KAIST or in general as a university student.
 
 <div class="button_cont" align="center"><a class="example_c" href="https://my.mlh.io/oauth/authorize?client_id=0fc2ffee13b95bccefb78b509cb6535b52f1a377d68be4f6c0c6768b5df2295f&redirect_uri=http://organize.mlh.io/participants/events/2101-hack-kaist/register&response_type=token" target="_blank" rel="nofollow noopener">Register</a></div>
 
