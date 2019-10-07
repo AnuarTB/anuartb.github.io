@@ -55,6 +55,12 @@ Software solution to a problem that you face in KAIST or in general as a univers
 - [Starter kits (Flask, Node.js)](https://hack.mlh.io/learn/)
 - [Workshop resources](http://mlhlocal.host/lhd-resources)
 
+**Projects!**
+
+We are proud to present the projects made by participants!
+
+- [Notification service for KaDaejeon (demo inside!) - Kyusung Seo, Juhn-oh Kim, Dongjoo Kim](https://github.com/seo3650/KDJ_project)
+
 <div class="button_cont" align="center"><a class="example_c" href="https://my.mlh.io/oauth/authorize?client_id=0fc2ffee13b95bccefb78b509cb6535b52f1a377d68be4f6c0c6768b5df2295f&redirect_uri=http://organize.mlh.io/participants/events/2101-hack-kaist/register&response_type=token" target="_blank" rel="nofollow noopener">Register</a></div>
 
 <img class="col three" src="/img/local_hack_day.png">
