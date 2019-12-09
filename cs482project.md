@@ -12,7 +12,7 @@ Solve puzzles in an unusual way. Control the puzzle pieces by tilting your phone
 <br/>
 As we have to make evaluation of our game we would sincerely appreciate your feedback on our game! :)
 
-1. [Download apk](static/game.apk) (NOTE: might require permission to install it).
+1. [Download apk](static/game.apk) and install it on your phone. (NOTE: might require permission to install it) OR you can also message me and play it on my phone.
 1. Play the game :)
 1. Fill in the **feedback survey**
 
