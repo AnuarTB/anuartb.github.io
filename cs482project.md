@@ -6,7 +6,7 @@ title: CS482 - Final project
 
 # No it doesn't fit
 <br/>
-Solve puzzles in an unusual way. Control the puzzle pieces by tilting your phone and complete levels. The game was done by Team #3 during the [CS482 - Interactive Computer Graphics class in KAIST](http://vclab.kaist.ac.kr/cs482/index.html). Was implemented using Java and OpenGL without use of any third-party libraries.
+Solve puzzles in an unusual way. Control the puzzle pieces by tilting your phone and complete levels. This Android game was developed by Team #3 during the [CS482 - Interactive Computer Graphics class in KAIST](http://vclab.kaist.ac.kr/cs482/index.html). Was implemented using Java and OpenGL without use of any third-party libraries.
 
 # Evaluation
 <br/>
