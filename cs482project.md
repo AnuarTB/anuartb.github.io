@@ -9,17 +9,22 @@ title: CS482 - Final project
 Solve puzzles in an unusual way. Control the puzzle pieces by tilting your phone and complete levels. This Android game was developed by Team #3 during the [CS482 - Interactive Computer Graphics class in KAIST](http://vclab.kaist.ac.kr/cs482/index.html). Was implemented using Java and OpenGL without use of any third-party libraries.
 
 # Screenshots
-<br/>
-<img class="three" src="img/screenshot1.jpg"/>
-<br/>
-<img class="three" src="img/screenshot2.jpg"/>
-<br/>
-<img class="three" src="img/screenshot3.jpg"/>
-<br/>
-<img class="three" src="img/screenshot4.jpg"/>
-<br/>
-<img class="three" src="img/screenshot5.jpg"/>
-<hr/>
+<div class="img-row">
+<img class="col three" src="img/screenshot1.jpg"/>
+</div>
+<div class="img-row">
+</div>
+<img class="col three" src="img/screenshot2.jpg"/>
+</div>
+<div class="img-row">
+<img class="col three" src="img/screenshot3.jpg"/>
+</div>
+<div class="img-row">
+<img class="col three" src="img/screenshot4.jpg"/>
+</div>
+<div class="img-row">
+<img class="col three" src="img/screenshot5.jpg"/>
+</div>
 # Evaluation
 <br/>
 As we have to make evaluation of our game we would sincerely appreciate your feedback on our game! :)
